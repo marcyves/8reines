@@ -140,7 +140,7 @@ class Echiquier:
             tab += "\n"
         return tab
 
-print("\nLe problème des 8 dames\n")
+print("\nLe problème des 8 Reines\n")
 
 t = Echiquier(8)
 
